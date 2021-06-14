@@ -1,0 +1,12 @@
+{
+  "name": "SnapchatDiscovery",
+  "displayName": "SnapchatDiscovery",
+  "expo": {
+    "name": "SnapchatDiscovery",
+    "slug": "SnapchatDiscovery",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
